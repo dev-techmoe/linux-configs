@@ -1,7 +1,7 @@
 set nu!
 set autoindent
 set expandtab
-set ts=4
+set ts=2
 syntax on
 
 " map space to leader key
